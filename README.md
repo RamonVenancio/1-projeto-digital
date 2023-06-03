@@ -1,1 +1,1 @@
-# 1-projeto-digital
+# projeto-digital-store
